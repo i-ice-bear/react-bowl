@@ -10,7 +10,7 @@ const NavbarComponent = (props) => {
       <Container>
         <div className="imageContainer w-12 h-12 mx-3">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+            src="https://cdn.iconscout.com/icon/free/png-256/free-logo-1889531-1597591.png"
             className="animate-spin"
             alt="React logo"
           />
